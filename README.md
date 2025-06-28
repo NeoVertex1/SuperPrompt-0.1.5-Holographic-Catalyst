@@ -263,6 +263,6 @@ On undecidability or paradox:
 ```
 
 ### Usage
-Apply prompt to reasoning model input with explicit invocation of answer_operator function.
+Apply prompt to reasoning model input with explicit invocation of answer_operator function. Best used as system prompt but works on chats.
 
-### End Specification
+
